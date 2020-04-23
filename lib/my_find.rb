@@ -6,5 +6,5 @@ while i < collection.length
 yield(colletion[i])
 i = i + 1 
 end 
-binding.pry 
 end
+binding.pry 
