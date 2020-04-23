@@ -7,4 +7,3 @@ yield(colletion[i])
 i = i + 1 
 end 
 end
-binding.pry 
